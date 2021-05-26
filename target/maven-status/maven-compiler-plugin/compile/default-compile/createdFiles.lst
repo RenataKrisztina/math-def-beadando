@@ -1,0 +1,8 @@
+mathDefinitions/model/LevelAdapter.class
+mathDefinitions/mathMain/Main.class
+jaxb/JAXBHelper.class
+mathDefinitions/controller/DefinitionsController.class
+mathDefinitions/model/Def.class
+mathDefinitions/mathMain/MathApplication.class
+mathDefinitions/model/Level.class
+mathDefinitions/model/Topic.class

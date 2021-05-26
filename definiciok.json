@@ -1,0 +1,41 @@
+[ {
+  "name" : "kör",
+  "definition" : "Azon pontok halmaza a síkban, melyek a sík egy adott pontjától egyenlő távolságra vannak.",
+  "topic" : "GEOMETRIA",
+  "level" : "ALTALANOS_ISKOLA"
+}, {
+  "name" : "paralelogramma",
+  "definition" : "Olyan négyszög, melynek szemközti oldalai párhuzamosok.",
+  "topic" : "GEOMETRIA",
+  "level" : "ALTALANOS_ISKOLA"
+}, {
+  "name" : "Súlyvonal",
+  "definition" : "A háromszög egy csúcsát a szemközti oldal felezőpontjával összekötő szakasz.",
+  "topic" : "GEOMETRIA",
+  "level" : "KOZEP_ISKOLA"
+}, {
+  "name" : "merőleges egyenesek",
+  "definition" : "Két egyenes merőleges, ha egy síkban vannak és derékszöget zárnak be egymással.",
+  "topic" : "GEOMETRIA",
+  "level" : "ALTALANOS_ISKOLA"
+}, {
+  "name" : "függvény",
+  "definition" : "Az alaphalmaz minden eleméhez hozzárendeljük a képhalmaz egy-egy elemét.",
+  "topic" : "ANALIZIS",
+  "level" : "ALTALANOS_ISKOLA"
+}, {
+  "name" : "húrnégyszög",
+  "definition" : "Azokat a konvex négyszögeket, melyeknek az oldalai egy kör húrjai, húrnégyszögeknek nevezzük.",
+  "topic" : "GEOMETRIA",
+  "level" : "KOZEP_ISKOLA"
+}, {
+  "name" : "gráf automorfizmusa",
+  "definition" : "A gráf egy olyan permutációja, amelynél éllel összekötött pontok képei is éllel összekötöttesk és fordítva.",
+  "topic" : "ALGEBRA",
+  "level" : "EGYETEM"
+}, {
+  "name" : "trapéz",
+  "definition" : "Olyan négyszög, melynek van párhuzamos oldalpárja.",
+  "topic" : "GEOMETRIA",
+  "level" : "ALTALANOS_ISKOLA"
+} ]

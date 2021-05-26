@@ -1,0 +1,11 @@
+[ {
+  "name" : "paralelogramma",
+  "definition" : "Olyan négyszög, melynek szemközti oldalai párhuzamosok.",
+  "topic" : "GEOMETRIA",
+  "level" : "ALTALANOS_ISKOLA"
+},{
+  "name" : "merőleges egyenesek",
+  "definition" : "Két egyenes merőleges, ha egy síkban vannak és derékszöget zárnak be egymással.",
+  "topic" : "GEOMETRIA",
+  "level" : "ALTALANOS_ISKOLA"
+}]
